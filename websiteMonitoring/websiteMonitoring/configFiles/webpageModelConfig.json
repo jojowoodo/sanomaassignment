@@ -1,0 +1,16 @@
+//Cofiguration file for all of the different websites the user wants to check statuses of.
+[
+  {
+    "url": "https://www.google.com/",
+    "contentRequirement": "<body"
+  },
+  {
+    "url": "https://www.youtube.com/",
+    "contentRequirement": "<body>"
+  },
+  {
+    "url": "https://www.doesntexistatall.com/",
+    "contentRequirement": "<body>"
+  }
+
+]

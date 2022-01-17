@@ -1,0 +1,22 @@
+{"url":"https://www.google.com/","contentRequirement":"<body","responseTime":"214","responseStatus":"server response is OK(200), and content is OK"}
+{"url":"https://www.youtube.com/","contentRequirement":"<body>","responseTime":"41","responseStatus":"server response is OK(200), and content is NOT OK"}
+{"url":"https://www.doesntexistatall.com/","contentRequirement":"<body>","responseTime":"null","responseStatus":"server doesn't respond"}
+{"url":"https://www.google.com/","contentRequirement":"<body","responseTime":"68","responseStatus":"server response is OK(200), and content is OK"}
+{"url":"https://www.youtube.com/","contentRequirement":"<body>","responseTime":"27","responseStatus":"server response is OK(200), and content is NOT OK"}
+{"url":"https://www.doesntexistatall.com/","contentRequirement":"<body>","responseTime":"null","responseStatus":"server doesn't respond"}
+{"url":"https://www.google.com/","contentRequirement":"<body","responseTime":"63","responseStatus":"server response is OK(200), and content is OK"}
+{"url":"https://www.youtube.com/","contentRequirement":"<body>","responseTime":"22","responseStatus":"server response is OK(200), and content is NOT OK"}
+{"url":"https://www.doesntexistatall.com/","contentRequirement":"<body>","responseTime":"null","responseStatus":"server doesn't respond"}
+{"url":"https://www.google.com/","contentRequirement":"<body","responseTime":"60","responseStatus":"server response is OK(200), and content is OK"}
+{"url":"https://www.youtube.com/","contentRequirement":"<body>","responseTime":"27","responseStatus":"server response is OK(200), and content is NOT OK"}
+{"url":"https://www.doesntexistatall.com/","contentRequirement":"<body>","responseTime":"null","responseStatus":"server doesn't respond"}
+{"url":"https://www.google.com/","contentRequirement":"<body","responseTime":"258","responseStatus":"server response is OK(200), and content is OK"}
+{"url":"https://www.youtube.com/","contentRequirement":"<body>","responseTime":"47","responseStatus":"server response is OK(200), and content is NOT OK"}
+{"url":"https://www.doesntexistatall.com/","contentRequirement":"<body>","responseTime":"null","responseStatus":"server doesn't respond"}
+{"url":"https://www.google.com/","contentRequirement":"<body","responseTime":"43","responseStatus":"server response is OK(200), and content is OK"}
+{"url":"https://www.youtube.com/","contentRequirement":"<body>","responseTime":"24","responseStatus":"server response is OK(200), and content is NOT OK"}
+{"url":"https://www.doesntexistatall.com/","contentRequirement":"<body>","responseTime":"null","responseStatus":"server doesn't respond"}
+{"url":"https://www.google.com/","contentRequirement":"<body","responseTime":"42","responseStatus":"server response is OK(200), and content is OK"}
+{"url":"https://www.google.com/","contentRequirement":"<body","responseTime":"191","responseStatus":"server response is OK(200), and content is OK"}
+{"url":"https://www.youtube.com/","contentRequirement":"<body>","responseTime":"55","responseStatus":"server response is OK(200), and content is NOT OK"}
+{"url":"https://www.doesntexistatall.com/","contentRequirement":"<body>","responseTime":"null","responseStatus":"server doesn't respond"}
